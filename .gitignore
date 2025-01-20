@@ -1,0 +1,24 @@
+# Virtual environment created by Poetry
+.env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# video used for experiments
+*.m4v
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Docker
+*.log
+*.pid
